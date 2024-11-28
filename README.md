@@ -379,7 +379,17 @@ WSearch	Fournit des fonctionnalités d’indexation de contenu, de mise en cache
 ```
 ## III. Installation des logiciels de travail 
 
-https://ninite.com/chrome-filezilla-firefox-notepadplusplus-paint.net-putty-python-winrar-winscp/ninite.exe
+Logiciel de base : https://ninite.com/chrome-filezilla-firefox-notepadplusplus-paint.net-putty-python-winrar-winscp/ninite.exe
+```
+- Chorm
+- FireFox
+- Notepad ++
+- Paint
+- Putty
+- Python
+- WinRar
+- WinScp
+```
  
 https://get.adobe.com/fr/reader/download?os=Windows+10&name=Reader+2024.004.20220+French+Windows%2864Bit%29&lang=fr&nativeOs=Windows+10&accepted=cr&declined=mss&preInstalled=&site=landing
 
