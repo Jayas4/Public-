@@ -64,7 +64,20 @@ Microsoft Windows 7
 https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.03.59.exe
 
 ## II. Débarassé de ce qui n'est pas utile
-### A. Supprimer les application préinstaller avec PowerShell
+### A. Supprimer les application préinstaller 
+####A. Supprimer les application préinstaller avec un script
+
+Installation : https://github.com/Sycnex/Windows10Debloater
+
+```
+- Téléchargez le fichier .zip sur la page principale de GitHub et extrayez le fichier .zip à l'emplacement souhaité
+- Une fois extrait, ouvrez PowerShell (ou PowerShell ISE ) en tant qu'administrateur
+- Activer l'exécution de PowerShell Set-ExecutionPolicy Unrestricted -Force
+- À l'invite, accédez au répertoire dans lequel vous avez extrait les fichiers : par exemple :cd c:\temp
+- Ensuite, pour exécuter l'un ou l'autre des scripts, entrez ce qui suit : par exemple -.\Windows10DebloaterGUI.ps1
+```
+####A. Supprimer les application préinstaller avec PowerShell
+
 ```
 - Clic droit menu Démarrer
 - PowerShell (en admin)
