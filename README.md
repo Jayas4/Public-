@@ -76,7 +76,7 @@ Installation : https://github.com/Sycnex/Windows10Debloater
 - À l'invite, accédez au répertoire dans lequel vous avez extrait les fichiers : par exemple :cd c:\temp
 - Ensuite, pour exécuter l'un ou l'autre des scripts, entrez ce qui suit : par exemple -.\Windows10DebloaterGUI.ps1
 ```
-#### A. Supprimer les application préinstaller avec PowerShell
+#### B. Supprimer les application préinstaller avec PowerShell
 
 ```
 - Clic droit menu Démarrer
