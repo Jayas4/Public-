@@ -393,6 +393,6 @@ Logiciel de base : https://ninite.com/chrome-filezilla-firefox-notepadplusplus-p
 
 Adobe Acrobate Reader : https://get.adobe.com/fr/reader/download?os=Windows+10&name=Reader+2024.004.20220+French+Windows%2864Bit%29&lang=fr&nativeOs=Windows+10&accepted=cr&declined=mss&preInstalled=&site=landing
 
-https://downloads.arduino.cc/arduino-ide/nightly/arduino-ide_nightly-20241128_Windows_64bit.zip
+IDE Arduino : https://downloads.arduino.cc/arduino-ide/nightly/arduino-ide_nightly-20241128_Windows_64bit.zip
 
-https://downloads.raspberrypi.org/imager/imager_1.8.5.exe
+Rasberry PI Imager : https://downloads.raspberrypi.org/imager/imager_1.8.5.exe
