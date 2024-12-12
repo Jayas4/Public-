@@ -4,7 +4,7 @@ mettre un fichier xml dans le windows pour repondre a toutes les quesions et exe
 
 <a href="https://schneegans.de/windows/unattend-generator/">Cliquez ici pour voir le site de génération </a>
 =
-<a href="https://github.com/Jayas4/Microsoft/blob/main/Documentation/autounattend.xml">Cliquez ici pour voir le résultat </a>
+<a href="https://github.com/Jayas4/Public-/blob/main/autounattend.xml">Cliquez ici pour voir le résultat </a>
 
 Pour un déploiement réseau il faut ouvrir l'iso puis glisser le fichier autounattend.xml avec winrar par exemple , et le mettre dans la racine de l'iso , puis de lancer votre installation 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
