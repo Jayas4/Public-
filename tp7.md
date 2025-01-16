@@ -6,32 +6,7 @@ mettre un fichier xml dans le windows pour repondre a toutes les quesions et exe
 =
 <a href="https://github.com/Jayas4/Public-/blob/main/autounattend.xml">Fichier Xml</a>
 
-Pour un déploiement réseau il faut ouvrir l'iso puis glisser le fichier autounattend.xml avec winrar par exemple , et le mettre dans la racine de l'iso , puis de lancer votre installation 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## II. Débarassé de ce qui n'est pas utile a la main
-### A. Supprimer les application et les choses inutiles
-```
-Tiny11 Builder n'est pas un crack de Windows,
-il vous faudra donc disposer d'une licence d'utilisation du système d'exploitation pour compléter l'installation.
- Si vous avez acheté un PC complet dans le commerce, cette licence est certainement incluse avec et lié à la carte-mère
-de l'ordinateur.
-Dans le cas contraire, de nombreux sites de commerce en ligne propose régulièrement des clés d'activation pour Windows 11
-à prix intéressant, vérifiez simplement à quelle version de Windows correspond la clé achetée (Famille, Pro, IoT, etc.).
-```
-
-Pour installer Edge
-```
- winget install edge
-```
-Pour installer Firefox
-```
-winget install -e --id Mozilla.Firefox
-```
-Pour installer Chrome
-```
-winget install -e --id Google.Chrome
-```
-
 
 
 Pense bête :
