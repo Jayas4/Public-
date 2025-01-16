@@ -23,7 +23,6 @@ Logs :
 -Remove Widgets
 -Cacher TaskView de la TaskBar
 -Ne pas montrer les resultats de bing pendant les recherches
--
 -Pins par défaut
 -Desactiver l'UAC
 -Desactiver Smart L'app Control
@@ -42,7 +41,7 @@ Logs :
 -Personnalisation par defaut
 
 -Suppresion de :
-3D Viewer  Bing Search  Camera  Clock  Copilot  Dev Home  Family  Feedback Hub  Get Help  Handwriting (all languages)   Internet Explorer  Mail and Calendar  Math Input Panel  Media Features  Mixed Reality  Movies & TV  News  Notepad (modern)  Office 365  OneDrive  OneNote  OneSync  OpenSSH Client  Outlook for Windows  Paint  Paint 3D  Photos  Power Automate  PowerShell 2.0  PowerShell ISE  Quick Assist  Recall  Remote Desktop Client  Skype  Snipping Tool  Solitaire Collection  Speech (all languages)   Steps Recorder  Sticky Notes  Teams  Tips  To Do  Voice Recorder  Wallet  Weather  Windows Fax and Scan  Windows Hello  Windows Media Player (classic)  Windows Media Player (modern)  Windows Terminal  WordPad  Xbox
+3D Viewer  Bing Search  Camera  Clock  Copilot  Dev Home  Family  Feedback Hub  Get Help  Handwriting (all languages)  Internet Explorer  Math Input Panel  Media Features  Mixed Reality  Movies & TV Notepad (modern)  Office 365  OneDrive  OneNote  OneSync Outlook for Windows  Paint  Paint 3D  Photos  Power Automate  PowerShell 2.0  PowerShell ISE  Recall  Remote Desktop Client Snipping Tool  Speech (all languages)   Steps Recorder  Sticky Notes  Teams  TipsVoice Recorder  Wallet  Windows Fax and Scan  Windows Hello  Windows Terminal  WordPad 
 
 -Après création 1 user group:Admin run en ps1 :
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
