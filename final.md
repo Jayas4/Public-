@@ -40,10 +40,13 @@ Logs :
 -Desactiver l'envoie des diagnostic
 -La carte mère décide les lock keys
 -Personnalisation par defaut
+
 -Suppresion de :
 3D Viewer  Bing Search  Camera  Clock  Copilot  Dev Home  Family  Feedback Hub  Get Help  Handwriting (all languages)   Internet Explorer  Mail and Calendar  Math Input Panel  Media Features  Mixed Reality  Movies & TV  News  Notepad (modern)  Office 365  OneDrive  OneNote  OneSync  OpenSSH Client  Outlook for Windows  Paint  Paint 3D  Photos  Power Automate  PowerShell 2.0  PowerShell ISE  Quick Assist  Recall  Remote Desktop Client  Skype  Snipping Tool  Solitaire Collection  Speech (all languages)   Steps Recorder  Sticky Notes  Teams  Tips  To Do  Voice Recorder  Wallet  Weather  Windows Fax and Scan  Windows Hello  Windows Media Player (classic)  Windows Media Player (modern)  Windows Terminal  WordPad  Xbox
+
 -Après création 1 user group:Admin run en ps1 :
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
 -Après la création 1 user group:Admin et exection du script ci dessus en ps1 :
 # Liste des applications à installer via Chocolatey
 $applications = @(
@@ -76,6 +79,7 @@ function Install-Applications {
 Install-Applications
 
 Write-Host "Installation des applications terminée !" -ForegroundColor Cyan
+
 -Pas de conf WDAC policy 
 
 ```
